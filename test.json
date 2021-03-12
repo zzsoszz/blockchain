@@ -1,0 +1,330 @@
+{
+  "result": {
+    "resultType": "OK",
+    "code": "200"
+  },
+  "rooms": [
+    {
+      "number": "1001",
+      "roomType": "STR",
+      "floor": "10",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        },
+        {
+          "cn": "Disable Room"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    },
+    {
+      "number": "1006",
+      "roomType": "STR",
+      "floor": "10",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    },
+    {
+      "number": "1101",
+      "roomType": "STR",
+      "floor": "11",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        },
+        {
+          "cn": "Disable Room"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    },
+    {
+      "number": "1106",
+      "roomType": "STR",
+      "floor": "11",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    },
+    {
+      "number": "1206",
+      "roomType": "STR",
+      "floor": "12",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    },
+    {
+      "number": "1506",
+      "roomType": "STR",
+      "floor": "15",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    },
+    {
+      "number": "1606",
+      "roomType": "STR",
+      "floor": "16",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    }
+    ,
+    {
+      "number": "1706",
+      "roomType": "STR",
+      "floor": "17",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    },
+    {
+      "number": "1806",
+      "roomType": "STR",
+      "floor": "18",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    },
+    {
+      "number": "1906",
+      "roomType": "STR",
+      "floor": "19",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    },
+    {
+      "number": "2006",
+      "roomType": "STR",
+      "floor": "20",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    },
+    {
+      "number": "506",
+      "roomType": "STR",
+      "floor": "5",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    },
+    {
+      "number": "706",
+      "roomType": "STR",
+      "floor": "7",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    },
+    {
+      "number": "806",
+      "roomType": "STR",
+      "floor": "8",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    },
+    {
+      "number": "906",
+      "roomType": "STR",
+      "floor": "9",
+      "features": [
+        {
+          "cn": "Queen Bed"
+        }
+      ],
+      "rateCode": "KWI2HRS",
+      "onePersonAmount": 2.0,
+      "twoPersonAmount": 2.0,
+      "threePersonAmount": 2.0,
+      "fourPersonAmount": 2.0,
+      "fivePersonAmount": 2.0,
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-11",
+      "roomStatus": "NORMAL",
+      "Description": "Standard Room",
+      "foStatus": "IS"
+    }
+  ]
+}
